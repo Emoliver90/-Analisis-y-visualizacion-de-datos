@@ -64,9 +64,3 @@ https://datastudio.google.com/reporting/1e696b98-a484-48bb-bc27-ee921e66d459
 > ⚠️ Verificar que el enlace tenga permisos de "Cualquier persona con el
 > enlace puede ver" antes de compartirlo para revisión.
 
-## 🚀 Mejoras a futuro
-
-- Automatizar la actualización del dashboard si en el futuro se dispone de
-  datos reales y no solo del snapshot estático actual.
-- Reemplazar la URL de carga del CSV en el notebook por la definitiva una
-  vez subido el proyecto a GitHub (ver primera celda de código).
